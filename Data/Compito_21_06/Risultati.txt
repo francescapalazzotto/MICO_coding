@@ -1,0 +1,15 @@
+-- GREEDY ALGORITHM --
+Numero spot selezionati 73:
+Costo totale: 39351.0
+Durata media spot: 97.56164383561644
+----------------------
+- SIMULATED ANNEALING -
+Numero spot selezionati 63:
+Costo totale: 35962.0
+Durata media spot: 54.507936507936506
+----------------------
+-- GENETIC ALGORITHM --
+Numero spot selezionati 75:
+Costo totale: 44545.0
+Durata media spot: 59.8
+----------------------

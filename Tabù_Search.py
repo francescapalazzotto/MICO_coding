@@ -1,0 +1,3 @@
+'''
+    TABU SEARCH ALGORITHM & TABU LIST 
+'''
